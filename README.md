@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 my name is Amos Theuri
+I am a Computer Information Systems student at Kenya Methodist University (KeMU).
+I have a huge interest in software development and linux. I am currently learning web development and linux by using arch as my main operating system. I am also an enthusiast of open source projects and looking to participate in some.
+I am looking to join communities and participating in events that will help me grow my skills
 
-<!--
-**Amos-Theuri/amos-theuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+web development | linux
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating my own company
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on Web development and open source projects
+- 🤔 I’m looking for help with web development
+- 💬 Ask me about web development
+- 📫 How to reach me: amostheuri.dev@gmail.com
+- ⚡ Fun fact: I currently don't have any photos of me,, but I'll upload one soon
