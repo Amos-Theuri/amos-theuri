@@ -10,7 +10,7 @@ web development | linux
 - 🔭 I’m currently working on creating my own company
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on Web development and open source projects
-- 🤔 I’m looking for help with web development
+- 🤔 I’m looking for help with networking
 - 💬 Ask me about web development
 - 📫 How to reach me: amostheuri.dev@gmail.com
 - ⚡ Fun fact: I currently don't have any photos of me,, but I'll upload one soon
